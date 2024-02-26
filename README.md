@@ -26,4 +26,5 @@ This repository is primarily for personal learning. However, if you spot errors 
 
 ## License
 
-[Specify your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)  file for details.
+
